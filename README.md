@@ -1,8 +1,5 @@
 ### Hello hello! 
 
-<!--
-**omark807/omark807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🥳 Welcome to my GitHub, where the party always kinda sorta keeps on going!
 
 🍵 I use he/him/his pronouns. 
