@@ -6,7 +6,7 @@
 
 🎓 I am a recent graduate with a B.S in [Computer Science + Crop Sciences](https://cs.illinois.edu/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-crop-sciences) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/).
 
-✨ My research intersts primarily revolve around **accessibility** and making technology (and in particular user interfaces) accessible to all, especially those with disabilities (e.g., visual impairments), as well as **affective computing**, identifying the underlying emotions associated with poor interface design through discovering what elements of current interface design and the design procfess in general neglect the needs of this population, as well as other historically underrepresented communities.
+✨ My research interests primarily revolve around **accessibility** and making technology (and in particular user interfaces) accessible to all, especially those with disabilities (e.g., visual impairments), as well as **affective computing**, identifying the underlying emotions associated with poor interface design through discovering what elements of current interface design and the design procfess in general neglect the needs of this population, as well as other historically underrepresented communities.
 
 🌍 I also love learning about all of the different ways data is used to make the world a more inclusive place for everyone, and love learning more about data visualizations and the ways that inaccessible data affects society.
 
