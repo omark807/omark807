@@ -12,4 +12,4 @@
 
 🌍 I also love learning about all of the different ways data is used to make the world a more inclusive place for everyone, and love learning more about data visualizations and the ways that inaccessible data affects society.
 
-🍳 My non-professional interests include fitness, reading, cooking, and sweaters! 
+🍳 My non-professional interests include fitness, reading, cooking, and writing! 
