@@ -1,15 +1,15 @@
-### Hello hello! 
+### Hello! 
 
 🥳 Welcome to my GitHub!
 
 🍵 I use he/him/his pronouns. 
 
-🎓 I am a recent graduate with a B.S in [Computer Science + Crop Sciences](https://cs.illinois.edu/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-crop-sciences) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/).
+🎓 I graduated with a B.S in [Computer Science + Crop Sciences](https://cs.illinois.edu/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-crop-sciences) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) in 2021, and am currently pursuing a M.S in Computer Science.
 
-✨ My research interests primarily revolve around **accessibility** and making technology (and in particular user interfaces) accessible to all, especially those with disabilities (e.g., visual impairments), as well as **affective computing**, identifying the underlying emotions associated with poor interface design through discovering what elements of current interface design and the design procfess in general neglect the needs of this population, as well as other historically underrepresented communities.
+💼 **I am actively seeking UX researcher and product manager internships for summer 2023.** I am open to software engineering internships as well, but am mainly interested on the former two jobs. 
+
+✨ My research interests primarily revolve around **accessibility** and making technology (and in particular user interfaces) accessible to all, especially those with visual impairments, as well as  **usable security and privacy**, wanting to understand the ways that the digital world is less secure for those with disabilities and how we can address these issues.
 
 🌍 I also love learning about all of the different ways data is used to make the world a more inclusive place for everyone, and love learning more about data visualizations and the ways that inaccessible data affects society.
-
-🎨 Front-end design and development is also cool! I love honing my abilties in React, React Native, Typescript, Javascript, Next.js, and similar frameworks, and I am always looking for ways to push these skills further.   
 
 🍳 My non-professional interests include fitness, reading, cooking, and sweaters! 
