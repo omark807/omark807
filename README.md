@@ -8,8 +8,8 @@
 
 💼 **I am actively seeking research internships (especially UX research) for summer 2024.** I am open to software engineering, product and/or program management, and consulting internships as well. 
 
-✨ My research interests primarily revolve around **accessibility** and making technology (particularly online social spaces) accessible to all, especially those with visual impairments, as well as  **usable security and privacy**, wanting to understand the ways that security and privacy-related information is conveyed online, and how those with disabilities may be at an increased risk at absorbing misinformation. 
+✨ My research interests primarily revolve around **accessibility** and making technology accessible to all, especially those within the blind and low-vision (BLV) community, as well as  **education**, wanting to understand the ways that education (particularly CS education) is inaccessible to those with disabilities. I am also interested in understanding **mental health** within the BLV community; more specifically, through lived experiences as well as volunteer opportunities, I have developed a nuanced understanding of the emotions associated with vision loss, and I am motivated to discern whether existing technologies adequately support the BLV community (especially those with low-vision). 
 
-🌍 I also love learning about all of the different ways data is used to make the world a more inclusive place for everyone, and frequently seek out ways that inaccessible data affects society.
+🌍 I also love learning about all of the different ways data is used to make the world a more inclusive place for everyone and frequently seek out ways that inaccessible data affects society.
 
 🍳 My non-professional interests include fitness, reading, cooking, gaming, and writing! 
